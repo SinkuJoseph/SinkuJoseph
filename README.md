@@ -9,7 +9,6 @@
 <h2 align="left">About me</h2>
 
 ###
-
 <br clear="both">
 
 <p align="left">✨ Creating bugs since the day I start😎<br>🎓 Student of Codeology | Debugger Extraordinaire | Syntax Explorer👨‍🎓<br>🎯 Goals: takeing care of my bugs😅<br>📅 Counting bugs like they're my digital pets😀</p>
