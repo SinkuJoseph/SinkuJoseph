@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joseph Raj and I'm a Learner..</p>
+<p align="left">My name is Joseph Raj and I'm a Code Explorer..</p>
 
 ###
 
